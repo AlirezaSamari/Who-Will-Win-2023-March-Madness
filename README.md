@@ -25,4 +25,4 @@ This Jupyter notebook project focuses on predicting the winners of the 2023 Marc
 
 Feel free to explore the notebook for insights into predicting March Madness winners. Contributions and collaborations are welcome!
 
-![March Madness](march_madness.png)
+![March Madness](march_madness.jpg)
